@@ -1,1 +1,1 @@
-dify/dify registry.cn-hangzhou.aliyuncs.com/datian_test/dify
+dify registry.cn-hangzhou.aliyuncs.com/datian_test/dify
