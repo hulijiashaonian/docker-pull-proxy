@@ -1,3 +1,2 @@
 langgenius/dify-api:latest registry.cn-hangzhou.aliyuncs.com/datian_test/langgenius/dify-api:latest
 langgenius/dify-web:latest registry.cn-hangzhou.aliyuncs.com/datian_test/langgenius/dify-web:latest
-
